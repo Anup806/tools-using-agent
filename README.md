@@ -1,4 +1,4 @@
-# Agent Learning
+# tools-using-agent
 
 A small, unfinished learning project for understanding LLM calls, tools, web search, function calling, agents, and short-term memory with LangChain and Groq.
 
