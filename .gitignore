@@ -4,5 +4,6 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-notebooks/trip_itinerary.txt
 notebooks/agents/trip_itinerary.txt
+notebooks/agents/trip_itinerary.txt
+notebooks/agents/trip_planner_agent_modern copy.ipynb
